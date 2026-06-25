@@ -56,4 +56,4 @@ pyinstaller PATH_TO_SCRIPT --onefile --noconsole
 ```
 ## DISCLAIMER 
 
-**I am not responsible for any of your actions. This GitHub repository is made for educational purposes only!**
+**I am not responsible for any of your actions. This script is made for educational purposes to understand malware and keyloggers!**
